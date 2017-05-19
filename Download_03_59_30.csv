@@ -1,0 +1,35 @@
+Canada (Province) GNR=26.1,,,,,,,,,
+Topic,Characteristics,Note,Total,Flag_Total,Male,Flag_Male,Female,Flag_Female
+Religion,Total population in private households by religion,55,32852320,,16163115,,16689210,
+Religion,  Buddhist,,  366830,,  168465,,  198365,
+Religion,  Christian,,22102745,,10497775,,11604975,
+Religion,    Anglican,, 1631845,,  752945,,  878900,
+Religion,    Baptist,,  635840,,  293905,,  341940,
+Religion,    Catholic,,12810705,, 6167290,, 6643415,
+Religion,    Christian Orthodox,,  550690,,  270205,,  280485,
+Religion,    Lutheran,,  478185,,  221525,,  256660,
+Religion,    Pentecostal,,  478705,,  217850,,  260850,
+Religion,    Presbyterian,,  472385,,  218955,,  253430,
+Religion,    United Church,, 2007610,,  912545,, 1095065,
+Religion,    Other Christian,, 3036780,, 1442550,, 1594230,
+Religion,  Hindu,,  497965,,  250435,,  247525,
+Religion,  Jewish,,  329495,,  161265,,  168235,
+Religion,  Muslim,, 1053945,,  540555,,  513395,
+Religion,  Sikh,,  454965,,  229435,,  225530,
+Religion,  Traditional (Aboriginal) Spirituality,,   64935,,   31805,,   33135,
+Religion,  Other religions,,  130835,,   57745,,   73090,
+Religion,  No religious affiliation,, 7850605,, 4225645,, 3624965,
+
+Symbols:
+..,not available for a specific reference period
+...,not applicable
+x,suppressed to meet the confidentiality requirements of the Statistics Act
+
+Notes:
+55,Religion refers to the person's self-identification as having a connection or affiliation with any religious denomination group body sect cult or other religiously defined community or system of belief. Religion is not limited to formal membership in a religious organization or group. Persons without a religious connection or affiliation can self-identify as atheist agnostic or humanist or can provide another applicable response.
+
+Source: Statistics Canada; 2011 National Household Survey.
+
+How to cite: Statistics Canada. 2013. National Household Survey Profile. 2011 National Household Survey.
+Statistics Canada Catalogue no. 99-004-XWE. Ottawa. Released June 26 2013.
+http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/index.cfm?Lang=E
